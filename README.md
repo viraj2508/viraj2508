@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @viraj
 - 👀 I’m interested in python,HTML CSS & Javascript
-- 🌱 I’m currently learning BE.IT
+- 🌱 I,ve completed Information Technology Engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me virunanoskar@gmail.com
 
